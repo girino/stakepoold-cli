@@ -17,8 +17,10 @@ $ protoc api.proto --go_out=plugins=grpc:stakepoolrpc
 
 ## Build
 
-`git clone https://github.com/girino/stakepoold-cli`
-`go build`
+```
+git clone https://github.com/girino/stakepoold-cli
+go build
+```
 
 ## Run
 
