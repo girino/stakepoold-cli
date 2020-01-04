@@ -1,0 +1,4 @@
+api.proto
+rpc.cert
+stakepoolrpc/api.pb.go
+stakepoold-cli
